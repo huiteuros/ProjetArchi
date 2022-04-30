@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listeProduits>
+<produit nom="Mars"><prixHT>4.0</prixHT><quantite>12</quantite></produit><produit nom="Bounty"><prixHT>8.0</prixHT><quantite>7</quantite></produit><produit nom="Raider"><prixHT>5.5</prixHT><quantite>7</quantite></produit><produit nom="Treets"><prixHT>3.6</prixHT><quantite>23</quantite></produit><produit nom="test"><prixHT>2.0</prixHT><quantite>2</quantite></produit></listeProduits>
